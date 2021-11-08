@@ -1,0 +1,24 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Confused Tech Bro"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Shirt Color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light Brown"
+      }
+    ],
+    "description": "description",
+    "image": "link to IPFS where your image is stored",
+    "name": "Image Name"
+  }
+  
